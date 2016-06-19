@@ -16,6 +16,7 @@ architecture arch of TDM_test is
 	signal reset_n : std_logic;
 begin
 -- Testing a new branch
+-- New Line added to branch2
 	reset_n <= not reset;
 	dac_adc_unit: entity work.adc_dac(arch)
 		port map(
