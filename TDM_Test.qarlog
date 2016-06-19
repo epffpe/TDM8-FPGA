@@ -1,0 +1,17 @@
+Quartus II Archive log --	C:/Users/epf/OneDrive/Designs/Quartus/TDM/TDM_Test.qarlog
+
+Archive:	C:/Users/epf/OneDrive/Designs/Quartus/TDM/TDM_Test.qar
+Date:		Sat Jun 18 11:54:12 2016
+Quartus II 64-Bit		15.0.0 Build 145 04/22/2015 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/epf/OneDrive/Designs/Quartus/TDM/TDM_Test.qpf
+C:/Users/epf/OneDrive/Designs/Quartus/TDM/TDM_Test.qsf
+C:/Users/epf/OneDrive/Designs/Quartus/TDM/TDM_Test.vhd
+C:/Users/epf/OneDrive/Designs/Quartus/TDM/adc_dac.vhd
+C:/Users/epf/OneDrive/Designs/Quartus/TDM/output_files/Chain1.cdf
+c:/altera/15.0/quartus/bin64/assignment_defaults.qdf
+	======= Total: 6 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

@@ -1,0 +1,16 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity adc_dac is
+	port(
+		
+	);
+end adc_dac;
+
+architecture arch of adc_dac is
+
+begin
+
+
+end arch;

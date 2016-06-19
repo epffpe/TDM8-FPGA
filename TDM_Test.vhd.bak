@@ -1,0 +1,15 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity TDM_test is
+	port(
+	);
+end TDM_test;
+
+architecture arch of TDM_test is
+
+begin
+
+end arch;
+	
